@@ -1,0 +1,6 @@
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\bin\Debug\RTM.Models.dll
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\bin\Debug\RTM.Models.pdb
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\obj\Debug\RTM.Models.csprojAssemblyReference.cache
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\obj\Debug\RTM.Models.csproj.CoreCompileInputs.cache
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\obj\Debug\RTM.Models.dll
+C:\Users\juan-concentra\source\repos\RayTrackingMobile\RTM.Models\obj\Debug\RTM.Models.pdb
